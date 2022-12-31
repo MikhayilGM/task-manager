@@ -1,0 +1,3 @@
+VARCHAR project_title
+DATE created_at
+VARCHAR project_descrip

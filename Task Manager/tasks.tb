@@ -1,0 +1,4 @@
+VARCHAR title
+VARCHAR worker_name
+VARCHAR project_name
+VARCHAR description

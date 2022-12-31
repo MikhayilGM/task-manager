@@ -1,0 +1,5 @@
+VARCHAR name
+VARCHAR surname
+INT age
+VARCHAR e_mail
+VARCHAR phone_number
